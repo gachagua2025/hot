@@ -1,0 +1,35 @@
+[
+  {
+    "id": "mpesa",
+    "name": "M-Pesa (Safaricom)",
+    "type": "mobile_money",
+    "provider": "safaricom",
+    "paybill": "174379",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - M-Pesa",
+    "isActive": true,
+    "color": "#00A651"
+  },
+  {
+    "id": "airtel_money",
+    "name": "Airtel Money",
+    "type": "mobile_money", 
+    "provider": "airtel",
+    "paybill": "100100",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Airtel Money",
+    "isActive": true,
+    "color": "#E20613"
+  },
+  {
+    "id": "telkom_tpesa",
+    "name": "T-Kash (Telkom)",
+    "type": "mobile_money",
+    "provider": "telkom", 
+    "paybill": "220220",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - T-Kash",
+    "isActive": true,
+    "color": "#FF6600"
+  }
+]

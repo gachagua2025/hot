@@ -1,0 +1,163 @@
+[
+  {
+    "id": "equity",
+    "name": "Equity Bank",
+    "paybill": "247247",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Equity Bank"
+  },
+  {
+    "id": "kcb",
+    "name": "Kenya Commercial Bank (KCB)",
+    "paybill": "522522",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - KCB"
+  },
+  {
+    "id": "coop",
+    "name": "Co-operative Bank",
+    "paybill": "400200",
+    "accountReference": "Account Number", 
+    "transactionDesc": "Hotspot Payment - Co-op Bank"
+  },
+  {
+    "id": "stanchart",
+    "name": "Standard Chartered Bank",
+    "paybill": "329329",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Standard Chartered"
+  },
+  {
+    "id": "absa",
+    "name": "Absa Bank Kenya",
+    "paybill": "303030",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Absa Bank"
+  },
+  {
+    "id": "family",
+    "name": "Family Bank",
+    "paybill": "222111",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Family Bank"
+  },
+  {
+    "id": "stanbic",
+    "name": "CFC Stanbic Bank",
+    "paybill": "329329",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Stanbic Bank"
+  },
+  {
+    "id": "national",
+    "name": "National Bank of Kenya",
+    "paybill": "456456",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - National Bank"
+  },
+  {
+    "id": "sbm",
+    "name": "SBM Bank Kenya",
+    "paybill": "200200",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - SBM Bank"
+  },
+  {
+    "id": "im",
+    "name": "I&M Bank",
+    "paybill": "100100",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - I&M Bank"
+  },
+  {
+    "id": "diamond",
+    "name": "Diamond Trust Bank",
+    "paybill": "600600",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Diamond Trust Bank"
+  },
+  {
+    "id": "ecobank",
+    "name": "Ecobank Kenya",
+    "paybill": "777111",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Ecobank"
+  },
+  {
+    "id": "jamii",
+    "name": "Jamii Bora Bank",
+    "paybill": "888222",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Jamii Bora"
+  },
+  {
+    "id": "abc",
+    "name": "ABC Bank",
+    "paybill": "444000",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - ABC Bank"
+  },
+  {
+    "id": "credit",
+    "name": "Credit Bank",
+    "paybill": "999333",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Credit Bank"
+  },
+  {
+    "id": "boa",
+    "name": "Bank of Africa Kenya",
+    "paybill": "777000",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Bank of Africa"
+  },
+  {
+    "id": "uba",
+    "name": "UBA Kenya Bank",
+    "paybill": "600700",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - UBA Bank"
+  },
+  {
+    "id": "prime",
+    "name": "Prime Bank",
+    "paybill": "111000",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Prime Bank"
+  },
+  {
+    "id": "gtb",
+    "name": "Guaranty Trust Bank Kenya",
+    "paybill": "200300",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - GTB"
+  },
+  {
+    "id": "gulf",
+    "name": "Gulf African Bank",
+    "paybill": "800100",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Gulf African Bank"
+  },
+  {
+    "id": "housing",
+    "name": "Housing Finance Company of Kenya",
+    "paybill": "300400",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Housing Finance"
+  },
+  {
+    "id": "consolidated",
+    "name": "Consolidated Bank of Kenya",
+    "paybill": "700800",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Consolidated Bank"
+  },
+  {
+    "id": "sidian",
+    "name": "Sidian Bank",
+    "paybill": "500600",
+    "accountReference": "Account Number",
+    "transactionDesc": "Hotspot Payment - Sidian Bank"
+  }
+]
